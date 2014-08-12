@@ -16,6 +16,7 @@ public class SlidingSwitcherView extends RelativeLayout implements OnTouchListen
 
 	/**
 	 * 让菜单滚动，手指滑动需要达到的速度。
+     * make some changes
 	 */
 	public static final int SNAP_VELOCITY = 100;
 
